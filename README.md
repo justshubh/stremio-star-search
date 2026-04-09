@@ -113,3 +113,6 @@ User searches "Brad Pitt"
 ## License
 
 MIT
+=======
+# stremio-star-search
+
