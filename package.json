@@ -1,0 +1,23 @@
+{
+  "name": "stremio-star-search",
+  "version": "1.0.0",
+  "description": "Stremio addon — Search by actor/director name to browse their complete filmography",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "keywords": [
+    "stremio",
+    "addon",
+    "tmdb",
+    "actor",
+    "director",
+    "filmography"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "stremio-addon-sdk": "^1.6.10",
+    "vercel": "^50.42.0"
+  }
+}
